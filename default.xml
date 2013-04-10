@@ -247,11 +247,9 @@
   <project name="platform/packages/apps/SpareParts" path="packages/apps/SpareParts"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk"/>
-  <project name="platform/packages/apps/Superuser" path="packages/apps/Superuser"/>
   <project name="platform/packages/apps/Tag" path="packages/apps/Tag"/>
   <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer"/>
-  <project name="platform/packages/apps/Widgets" path="packages/apps/Widgets"/>
   <project name="platform/packages/experimental" path="packages/experimental"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn"/>
@@ -316,6 +314,8 @@
   <project name="hardware/intel/libcamera" path="hardware/intel/libcamera"/>
   <project name="kernel/intel" path="kernel/intel"/>
   <project name="packages/apps/AndroidTerm" path="packages/apps/AndroidTerm"/>
+  <project name="packages/apps/Superuser" path="packages/apps/Superuser"/>
+  <project name="packages/apps/Widgets" path="packages/apps/Widgets"/>
   <project name="packages/apps/ReplicaIsland" path="packages/apps/ReplicaIsland"/>
   <project name="packages/apps/apps-for-android" path="packages/apps/apps-for-android"/>
   <project name="platform/bootable/droidboot" path="bootable/droidboot"/>
