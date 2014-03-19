@@ -3,7 +3,7 @@
 
   <remote  name="android-ia"
            fetch="." />
-  <default revision="android-4.2.1_r1-ia1"
+  <default revision="release/android-4.2.1_r1-ia1"
            remote="android-ia"
            sync-j="4"/>
 
