@@ -51,7 +51,6 @@
   <project name="platform/external/dropbear" path="external/dropbear"/>
   <project name="platform/external/e2fsprogs" path="external/e2fsprogs"/>
   <project name="platform/external/easymock" path="external/easymock"/>
-  <project name="platform/external/eclipse-basebuilder" path="external/eclipse-basebuilder"/>
   <project name="platform/external/eclipse-windowbuilder" path="external/eclipse-windowbuilder"/>
   <project name="platform/external/elfutils" path="external/elfutils"/>
   <project name="platform/external/embunit" path="external/embunit"/>
@@ -249,8 +248,6 @@
   <project name="platform/packages/wallpapers/NoiseField" path="packages/wallpapers/NoiseField"/>
   <project name="platform/packages/wallpapers/PhaseBeam" path="packages/wallpapers/PhaseBeam"/>
   <project name="platform/pdk" path="pdk"/>
-  <project name="platform/prebuilt" path="prebuilt"/>
-  <project name="platform/prebuilts/eclipse" path="prebuilts/eclipse"/>
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6"/>
   <project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6"/>
   <project name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3"/>
