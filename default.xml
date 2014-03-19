@@ -2,8 +2,7 @@
 <manifest>
 
   <remote  name="android-ia"
-           fetch=".."
-           review="https://android-review.01.org" />
+           fetch=".." />
   <default revision="release/android-4.2.2_r1-ia2"
            remote="android-ia"
            sync-j="4"/>
