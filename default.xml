@@ -277,8 +277,8 @@
   <project name="platform_system_security" path="system/security"/>
   <project name="platform_system_vold" path="system/vold"/>
   <project name="device_intel" path="device/intel"/>
-  <project name="hardware_drm_gralloc" path="hardware/drm_gralloc" revision="master"/>
-  <project name="hardware_intel_libcamera" path="hardware/intel/libcamera" revision="master"/>
+  <project name="hardware_drm_gralloc" path="hardware/drm_gralloc"/>
+  <project name="hardware_intel_libcamera" path="hardware/intel/libcamera"/>
   <project name="kernel_intel" path="kernel/intel"/>
   <project name="packages_apps_ReplicaIsland" path="packages/apps/ReplicaIsland"/>
   <project name="packages_apps_apps-for-android" path="packages/apps/apps-for-android"/>
@@ -287,12 +287,12 @@
   <project name="platform_external_hwids" path="external/hwids"/>
   <project name="platform_external_kexec-tools" path="external/kexec-tools"/>
   <project name="platform_external_libs3cjpeg" path="external/libs3cjpeg"/>
-  <project name="platform_external_mesa" path="external/mesa" revision="master"/>
+  <project name="platform_external_mesa" path="external/mesa"/>
   <project name="platform_external_pciutils" path="external/pciutils"/>
   <project name="platform_external_powertop" path="external/powertop"/>
   <project name="platform_external_syslinux" path="external/syslinux"/>
   <project name="platform_external_tp_smapi" path="external/tp_smapi"/>
   <project name="vendor_intel" path="vendor/intel"/>
-  <project name="fdo_chadversary_drm" path="external/drm" revision="master"/>
+  <project name="fdo_chadversary_drm" path="external/drm"/>
   <project name="fdo_chadversary_xorg.lib.libpciaccess" path="external/libpciaccess"/>
 </manifest>
