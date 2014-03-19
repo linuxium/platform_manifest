@@ -4,7 +4,7 @@
   <remote  name="android-ia"
            fetch=".."
            review="https://android-review.01.org" />
-  <default revision="android-4.2.1_r1-ia0"
+  <default revision="release/android-4.2.1_r1-ia0"
            remote="android-ia"
            sync-j="4"/>
 
