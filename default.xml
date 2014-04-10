@@ -2,7 +2,7 @@
 <manifest>
   <remote name="android-ia" fetch="."/>
 
-  <default remote="android-ia" revision="android-4.4.2_r1-ia0" sync-j="4"/>
+  <default remote="android-ia" revision="release/android-4.4.2_r1-ia0" sync-j="4"/>
 
   <project path="abi/cpp" name="platform_abi_cpp" groups="pdk"/>
   <project path="art" name="platform_art"/>
