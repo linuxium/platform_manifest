@@ -230,7 +230,6 @@
   <project path="external/stlport" name="platform_external_stlport" groups="pdk"/>
   <project path="external/strace" name="platform_external_strace"/>
   <project path="external/stressapptest" name="platform_external_stressapptest"/>
-  <project path="external/svox" name="platform_external_svox"/>
   <project path="external/syslinux" name="external_syslinux"/>
   <project path="external/tagsoup" name="platform_external_tagsoup"/>
   <project path="external/tcpdump" name="platform_external_tcpdump"/>
